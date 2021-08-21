@@ -23,6 +23,8 @@ COLLECTION_NAME = 'channel_files'  # If you are using the same database, then us
 
 # Messages
 START_MSG = """
+await client.image(chat_id=message.from_user.id, image"https://telegra.ph/file/51ac7d6a2c89b2d95dbe5.jpg)
+            return
 **Hi, I'm Media Search bot**
 
 Here you can search files in inline mode. Just press follwing buttons and start searching.
